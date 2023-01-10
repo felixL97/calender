@@ -1,0 +1,23 @@
+body {
+    background-color: antiquewhite;
+    color: green;
+}
+nav ul {
+    display:flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+}
+nav li {
+    list-style: none;
+    background-color: green;
+    color: antiquewhite;
+    margin:0;
+    flex:1;
+    min-width: 200px;
+    text-align: center;
+    display: flex;
+}
+nav a, nava:visted {
+
+}
